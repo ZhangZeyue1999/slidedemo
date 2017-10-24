@@ -56,7 +56,7 @@
 
 ** 张泽岳 **
 
-<img src="https://github.com/ZhangZeyue1999/slidedemo/1508825989414.jpeg" width=300 style="margin: 0px 80px">
+<img src="https://github.com/ZhangZeyue1999/slidedemo/blob/master/1508825989414.jpeg" width=300 style="margin: 0px 80px">
 
 ---
 
