@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (2607718149@pku.edu.cn)  
+#### 张泽岳(2607718149@pku.edu.cn)  
 
 主页: https://github.com/zhangzeyue1999
 
